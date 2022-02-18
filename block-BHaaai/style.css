@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+  color: green;
+}
+
+h3 {
+  color: green;
+}
+
+body {
+  background-color:#22396a;
+}
+
+h2,
+h5,
+h4 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+div {
+  color: white;
+}
+
+span {
+  color: red;
+}
+
+u {
+  padding-right: 10px;
+}
+
+address {
+  color: white;
+}
